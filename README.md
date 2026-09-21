@@ -70,10 +70,6 @@ This project performs an Exploratory Data Analysis (EDA) on the *Economic Guide 
 - Gender share distribution (`ShareWomen`)
 - Female-dominated vs. male-dominated majors
 
-| Top 10 Highest Paying Majors | Gender Distribution |
-|---|---|
-| ![Top 10 highest paying majors](images/top10_highest_salaries.png) | ![Gender distribution](images/gender_distribution.png) |
-
 ## Tools & Technologies
 
 - **Python:** Pandas, NumPy
