@@ -2,7 +2,7 @@
 
 [![Kaggle](https://img.shields.io/badge/Kaggle-View%20Notebook-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/code/talalhakem/collegemajors-analytics-salary-employment-gender)
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi&logoColor=black)
+![Power BI]([https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi&logoColor=black](https://github.com/talalabdelhakim/college-majors-analysis/blob/main/dashboard.png))
 
 An end-to-end analysis of **173 college majors** that explores how salary, employment, unemployment and gender representation vary across fields of study, with an interactive Power BI dashboard on top.
 
