@@ -10,12 +10,6 @@ An end-to-end analysis of **173 college majors** that explores how salary, emplo
 
 ---
 
-## Dashboard
-
-![College Majors Analytics Dashboard](images/dashboard.png)
-
----
-
 ## Project Overview
 
 This project performs an Exploratory Data Analysis (EDA) on the *Economic Guide to College Majors* dataset to answer practical questions for students, career advisors and education analysts:
